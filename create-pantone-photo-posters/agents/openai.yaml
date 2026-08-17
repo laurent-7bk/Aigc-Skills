@@ -1,4 +1,0 @@
-interface:
-  display_name: "潘通相框摄影海报"
-  short_description: "把照片制作成带潘通色号、主体自然穿框的高级摄影海报"
-  default_prompt: "使用 $create-pantone-photo-posters 将这张照片制作成高级潘通相框摄影海报。"
